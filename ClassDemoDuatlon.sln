@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemoDuatlonLib", "ClassDemoDuatlonLib\ClassDemoDuatlonLib.csproj", "{78F0C0D2-FFD6-4865-B10D-DD7D459E84F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemoDuatlonLibTests", "ClassDemoDuatlonLibTests\ClassDemoDuatlonLibTests.csproj", "{55223FA1-C33D-48C7-9184-1C4FDE1D451D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F0C0D2-FFD6-4865-B10D-DD7D459E84F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F0C0D2-FFD6-4865-B10D-DD7D459E84F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F0C0D2-FFD6-4865-B10D-DD7D459E84F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F0C0D2-FFD6-4865-B10D-DD7D459E84F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55223FA1-C33D-48C7-9184-1C4FDE1D451D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55223FA1-C33D-48C7-9184-1C4FDE1D451D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55223FA1-C33D-48C7-9184-1C4FDE1D451D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55223FA1-C33D-48C7-9184-1C4FDE1D451D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {083FB764-4C0B-4912-9393-7DA74B838A61}
+	EndGlobalSection
+EndGlobal
